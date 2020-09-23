@@ -1,0 +1,22 @@
+{
+  "name": "ks-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "child_process": "^1.0.2",
+    "excel4node": "^1.7.2",
+    "fs": "0.0.1-security",
+    "node-firebird": "^0.9.5",
+    "stream": "0.0.2",
+    "sys": "0.0.1",
+    "util": "^0.12.3",
+    "winston": "^3.3.3"
+  }
+}
